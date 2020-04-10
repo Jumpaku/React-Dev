@@ -1,0 +1,13 @@
+{
+    "name": "react-dev",
+    "dockerComposeFile": "./docker-compose.yml",
+    "service": "react-dev",
+    "workspaceFolder": "/workdir/",
+    "extensions": [
+        "streetsidesoftware.code-spell-checker"
+    ],
+    "settings": {
+        "editor.formatOnSave": false,
+        "editor.wordWrap": "on"
+    }
+}
