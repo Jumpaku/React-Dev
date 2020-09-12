@@ -4,7 +4,8 @@
     "service": "react-dev",
     "workspaceFolder": "/workdir/",
     "extensions": [
-        "streetsidesoftware.code-spell-checker"
+        "streetsidesoftware.code-spell-checker",
+        "donjayamanne.githistory"
     ],
     "settings": {
         "editor.formatOnSave": false,

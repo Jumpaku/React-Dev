@@ -2,10 +2,11 @@
 
 Hello from TypeScript and React on webpack!
 
-# Initialize
+# Update
 
 ```sh
-npm install
+ncu
+ncu -u
 ```
 
 # Start dev-server
@@ -18,11 +19,4 @@ npm run start
 
 ```sh
 npm run build
-```
-
-# Update
-
-```sh
-ncu
-ncu -u
 ```
